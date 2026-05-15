@@ -23,6 +23,7 @@ This project involves:
 2. ERP System: Customer records, location data, product categories
 
 ## Project Structure
+```
 ├── datasets/
 │   ├── source_crm/
 │   │   ├── cust_info.csv
@@ -37,6 +38,7 @@ This project involves:
 │   ├── silver/
 │   └── gold/
 └── README.md
+```
 
 ## How to Run
 1. Clone the repository
